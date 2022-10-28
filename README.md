@@ -1,5 +1,5 @@
-# OSCAR-contention-window-RL
-Contention Window control method that leverages Deep Reinforcement Learning (DRL) to quickly learn the optimal policies under different network conditions
+# OSCAR: a Contention Window Optimization approach using Deep Reinforcement Learning
+OSCAR: a Contention Window Optimization approach using Deep Reinforcement Learning to quickly learn the optimal policies under different network conditions
 
 ### Requisites
 A working ```ns3-gym``` environment is required.
