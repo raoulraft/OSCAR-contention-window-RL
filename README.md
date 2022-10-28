@@ -16,3 +16,6 @@ Launch ```python CCOD_train.py``` to train the CCOD algorithm.
 
 Launch ```python standard_test_and_ccod_train.py``` to test the 802.11 algorithm and train the CCOD algorithm.
 
+### References
+Email me at raoul.raftopoulos@phd.unict.it.
+
