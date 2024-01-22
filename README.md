@@ -17,5 +17,15 @@ Launch ```python CCOD_train.py``` to train the CCOD algorithm.
 Launch ```python standard_test_and_ccod_train.py``` to test the 802.11 algorithm and train the CCOD algorithm.
 
 ### Reference this paper
-Email me at raoul.raftopoulos@phd.unict.it.
+```
+@INPROCEEDINGS{10279663,
+  author={Grasso, Christian and Raftopoulos, Raoul and Schembra, Giovanni},
+  booktitle={ICC 2023 - IEEE International Conference on Communications}, 
+  title={OSCAR: A Contention Window Optimization Approach Using Deep Reinforcement Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={459-465},
+  doi={10.1109/ICC45041.2023.10279663}}
+```
 
